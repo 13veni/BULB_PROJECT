@@ -1,0 +1,38 @@
+body{
+    background:rgb(223, 114, 114);
+    
+   
+}
+#headings{
+   
+    height: 60px;
+    width:  900px;
+    background:rgb(0, 128, 255);
+    color: black;
+    margin: auto;
+    text-align: center;
+    margin-top: 55px ;
+    border-top-right-radius: 50%  ;
+    border-bottom-left-radius: 50%;
+    border: 5px solid blanchedalmond;
+    border-color:green darkmagenta yellow skyblue;
+    box-shadow:7px 7px 7px orangered;    
+}
+h1{
+    text-shadow: 3px 3px 3px seashell;
+    margin: auto;
+    text-align: center;
+    margin-top: 60px;
+    padding-top: 40px;
+}
+#image{
+    
+    margin: auto;
+    margin-top: 145px ;
+    height: 210px;
+    width: 210px;
+    border: 7px solid blanchedalmond;
+    border-color:green darkmagenta yellow skyblue;
+    box-shadow:6px 6px 6px orangered; 
+
+}
